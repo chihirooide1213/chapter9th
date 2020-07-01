@@ -52,6 +52,7 @@ main{
 .title{
 	margin: 15px 0 5px;
 }
+
 @media screen and (max-width: 768px){
 	main{
 		width: 100%;
