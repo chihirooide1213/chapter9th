@@ -3,14 +3,14 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-.clearfix::after{
+.clearfix::after {
 	content: "";
-	clear: both;
 	display: block;
+	clear: both;
 }
 main{
 	width: 960px;
-	padding: 50px 0;
+	margin: 50px auto;
 }
 .step-box{
     width: 300px;
