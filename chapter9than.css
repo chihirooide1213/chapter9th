@@ -14,7 +14,7 @@ main{
 	margin: 50px auto;
 }
 header{
-	background-color: orange;
+	background-color: #FF9A4B;
 	height: 50px;
 	width: 100%;
 }
@@ -25,6 +25,7 @@ header{
     margin-right: 30px;
     border: 2px solid #eee;
     position: relative;
+    background-color: #EEEEEE;
 }
 .step-box:last-child{
   margin-right: 0;
@@ -59,7 +60,7 @@ header{
 	margin: 15px 0 5px;
 }
 footer{
-	background-color: grey;
+	background-color: #AAAAAA;
 	height:50px;
 	width: 100%;
 }
